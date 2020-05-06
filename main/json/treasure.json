@@ -1,0 +1,102 @@
+{
+  "treasure": [
+    {
+      "type": 0,
+      "text": "",
+      "gotoIndex": 0,
+      "money": 0
+    }
+  ],
+  "sideStory": [
+    {
+      "type": 0,
+      "text": "Kamu dikasih uang $50 sama pacar buat beli es krim",
+      "gotoIndex": 0,
+      "money": 50
+    },
+    {
+      "type": 0,
+      "text": "Ciee yang nikah, kamu dapet bowo an $150 lho",
+      "gotoIndex": 0,
+      "money": 150
+    },
+    {
+      "type": 0,
+      "text": "Dapat uang $50 dijalan, rejeki anak sholeh",
+      "gotoIndex": 0,
+      "money": 50
+    },
+    {
+      "type": 0,
+      "text": "Rela jual es batu demi biaya istri, kamu dapet $25, alhamdulillah",
+      "gotoIndex": 0,
+      "money": 25
+    },
+    {
+      "type": 0,
+      "text": "Selamat ulang tahun, kamu dikado mantan berupa uang tunai sebesar $75",
+      "gotoIndex": 0,
+      "money": 75
+    },
+    {
+      "type": 1,
+      "text": "Mantan kamu ngambek, sana beliin es krim seharga $50 di Mak Ijah !",
+      "gotoIndex": 0,
+      "money": 50
+    },
+    {
+      "type": 1,
+      "text": "Kamu keciduk pacaran malam malam oleh pak pol, bayar denda $100",
+      "gotoIndex": 0,
+      "money": 100
+    },
+    {
+      "type": 1,
+      "text": "Pacar kamu sakit, minta dibeliin roti seharga $25",
+      "gotoIndex": 0,
+      "money": 25
+    },
+    {
+      "type": 1,
+      "text": "Kamu ketahuan merebut istri orang lain dan dihajar oleh suaminya, bayar $50 untuk biaya rumah sakitmu",
+      "gotoIndex": 0,
+      "money": 50
+    },
+    {
+      "type": 1,
+      "text": "Awas kamu hampir putus sama pacar kamu, cepat kasih uang $75 biar dia tetep sayang sama kamu",
+      "gotoIndex": 0,
+      "money": 75
+    },
+    {
+      "type": 2,
+      "text": "Kamu diajak mantan jalan jalan ke Mendit",
+      "gotoIndex": 19,
+      "money": 0
+    },
+    {
+      "type": 2,
+      "text": "Kamu ketahuan selingkuh dan dijebloskan ke penjara",
+      "gotoIndex": 0,
+      "money": 10
+    },
+    {
+      "type": 2,
+      "text": "Kamu jalan jalan bareng mantan, dan kesasar di Singosari",
+      "gotoIndex": 0,
+      "money": 39
+    },
+    {
+      "type": 2,
+      "text": "Bonceng pacar pake sepeda butut, akhirnya kamu diputusin dan kamu cari tempat parkir",
+      "gotoIndex": 0,
+      "money": 20
+    },
+    {
+      "type": 2,
+      "text": "Berburu harta karun bersama pacar",
+      "gotoIndex": 0,
+      "money": 33
+    }
+  ]
+}

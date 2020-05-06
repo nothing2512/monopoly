@@ -1,0 +1,13 @@
+C:\Users\lappy-chan\Documents\vb\Monopoly\bin\Debug\Monopoly.exe.config
+C:\Users\lappy-chan\Documents\vb\Monopoly\bin\Debug\Monopoly.exe
+C:\Users\lappy-chan\Documents\vb\Monopoly\bin\Debug\Monopoly.pdb
+C:\Users\lappy-chan\Documents\vb\Monopoly\bin\Debug\Monopoly.xml
+C:\Users\lappy-chan\Documents\vb\Monopoly\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lappy-chan\Documents\vb\Monopoly\obj\Debug\Monopoly.vbprojAssemblyReference.cache
+C:\Users\lappy-chan\Documents\vb\Monopoly\obj\Debug\Monopoly.Resources.resources
+C:\Users\lappy-chan\Documents\vb\Monopoly\obj\Debug\Monopoly.vbproj.GenerateResource.cache
+C:\Users\lappy-chan\Documents\vb\Monopoly\obj\Debug\Monopoly.vbproj.CopyComplete
+C:\Users\lappy-chan\Documents\vb\Monopoly\obj\Debug\Monopoly.exe
+C:\Users\lappy-chan\Documents\vb\Monopoly\obj\Debug\Monopoly.xml
+C:\Users\lappy-chan\Documents\vb\Monopoly\obj\Debug\Monopoly.pdb
+C:\Users\lappy-chan\Documents\vb\Monopoly\obj\Debug\Monopoly.Form1.resources

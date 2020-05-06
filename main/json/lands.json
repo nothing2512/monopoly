@@ -1,0 +1,652 @@
+[
+  {
+    "x": 615,
+    "y": 615,
+    "landType": 0
+  },
+  {
+    "x": 540,
+    "y": 615,
+    "landType": 1,
+    "card": {
+      "name": "Gang Anggrek",
+      "type": 0,
+      "price": 60,
+      "complex": "A",
+      "cost": 2,
+      "house": {
+        "housePrice": 50,
+        "hotelPrice": 50,
+        "house1": 10,
+        "house2": 30,
+        "house3": 90,
+        "house4": 160,
+        "hotel": 250
+      }
+    }
+  },
+  {
+    "x": 485,
+    "y": 615,
+    "landType": 4
+  },
+  {
+    "x": 435,
+    "y": 615,
+    "landType": 1,
+    "card": {
+      "name": "Gang Melati",
+      "type": 0,
+      "price": 60,
+      "complex": "A",
+      "cost": 4,
+      "house": {
+        "housePrice": 50,
+        "hotelPrice": 50,
+        "house1": 20,
+        "house2": 60,
+        "house3": 180,
+        "house4": 320,
+        "hotel": 450
+      }
+    }
+  },
+  {
+    "x": 380,
+    "y": 615,
+    "landType": 6,
+    "tax": 200
+  },
+  {
+    "x": 330,
+    "y": 615,
+    "landType": 7,
+    "card": {
+      "name": "Terminal Arjosari",
+      "type": 1,
+      "price": 200,
+      "complex": "",
+      "cost": 0,
+      "house": {
+        "housePrice": 0,
+        "hotelPrice": 0,
+        "house1": 0,
+        "house2": 0,
+        "house3": 0,
+        "house4": 0,
+        "hotel": 0
+      }
+    }
+  },
+  {
+    "x": 280,
+    "y": 615,
+    "landType": 1,
+    "card": {
+      "name": "Klampok",
+      "type": 0,
+      "price": 100,
+      "complex": "B",
+      "cost": 6,
+      "house": {
+        "housePrice": 50,
+        "hotelPrice": 50,
+        "house1": 30,
+        "house2": 90,
+        "house3": 270,
+        "house4": 400,
+        "hotel": 500
+      }
+    }
+  },
+  {
+    "x": 225,
+    "y": 615,
+    "landType": 5
+  },
+  {
+    "x": 170,
+    "y": 615,
+    "landType": 1,
+    "card": {
+      "name": "Kasin",
+      "type": 0,
+      "price": 100,
+      "complex": "B",
+      "cost": 6,
+      "house": {
+        "housePrice": 50,
+        "hotelPrice": 50,
+        "house1": 30,
+        "house2": 90,
+        "house3": 270,
+        "house4": 400,
+        "hotel": 500
+      }
+    }
+  },
+  {
+    "x": 120,
+    "y": 165,
+    "landType": 1,
+    "card": {
+      "name": "Selorejo",
+      "type": 0,
+      "price": 120,
+      "complex": "B",
+      "cost": 8,
+      "house": {
+        "housePrice": 50,
+        "hotelPrice": 50,
+        "house1": 40,
+        "house2": 100,
+        "house3": 300,
+        "house4": 450,
+        "hotel": 600
+      }
+    }
+  },
+  {
+    "x": 45,
+    "y": 615,
+    "landType": 2
+  },
+  {
+    "x": 40,
+    "y": 538,
+    "landType": 1,
+    "card": {
+      "name": "Polowijen",
+      "type": 0,
+      "price": 140,
+      "complex": "C",
+      "cost": 10,
+      "house": {
+        "housePrice": 100,
+        "hotelPrice": 100,
+        "house1": 50,
+        "house2": 150,
+        "house3": 450,
+        "house4": 525,
+        "hotel": 750
+      }
+    }
+  },
+  {
+    "x": 40,
+    "y": 486,
+    "landType": 8,
+    "card": {
+      "name": "PLN",
+      "type": 2,
+      "price": 150,
+      "complex": "",
+      "cost": 0,
+      "house": {
+        "housePrice": 0,
+        "hotelPrice": 0,
+        "house1": 0,
+        "house2": 0,
+        "house3": 0,
+        "house4": 0,
+        "hotel": 0
+      }
+    }
+  },
+  {
+    "x": 40,
+    "y": 438,
+    "landType": 1,
+    "card": {
+      "name": "Kedawung",
+      "type": 0,
+      "price": 140,
+      "complex": "C",
+      "cost": 10,
+      "house": {
+        "housePrice": 100,
+        "hotelPrice": 100,
+        "house1": 50,
+        "house2": 150,
+        "house3": 450,
+        "house4": 525,
+        "hotel": 750
+      }
+    }
+  },
+  {
+    "x": 40,
+    "y": 385,
+    "landType": 1,
+    "card": {
+      "name": "Wilis",
+      "type": 0,
+      "price": 160,
+      "complex": "C",
+      "cost": 12,
+      "house": {
+        "housePrice": 100,
+        "hotelPrice": 100,
+        "house1": 60,
+        "house2": 180,
+        "house3": 500,
+        "house4": 700,
+        "hotel": 900
+      }
+    }
+  },
+  {
+    "x": 40,
+    "y": 330,
+    "landType": 7,
+    "card": {
+      "name": "Terminal Batu",
+      "type": 1,
+      "price": 200,
+      "complex": "",
+      "cost": 0,
+      "house": {
+        "housePrice": 0,
+        "hotelPrice": 0,
+        "house1": 0,
+        "house2": 0,
+        "house3": 0,
+        "house4": 0,
+        "hotel": 0
+      }
+    }
+  },
+  {
+    "x": 40,
+    "y": 280,
+    "landType": 1,
+    "card": {
+      "name": "Dieng",
+      "type": 0,
+      "price": 180,
+      "complex": "D",
+      "cost": 14,
+      "house": {
+        "housePrice": 100,
+        "hotelPrice": 100,
+        "house1": 70,
+        "house2": 200,
+        "house3": 550,
+        "house4": 750,
+        "hotel": 950
+      }
+    }
+  },
+  {
+    "x": 40,
+    "y": 230,
+    "landType": 4
+  },
+  {
+    "x": 40,
+    "y": 175,
+    "landType": 1,
+    "card": {
+      "name": "Tlogomas",
+      "type": 0,
+      "price": 180,
+      "complex": "D",
+      "cost": 14,
+      "house": {
+        "housePrice": 100,
+        "hotelPrice": 100,
+        "house1": 70,
+        "house2": 200,
+        "house3": 550,
+        "house4": 750,
+        "hotel": 950
+      }
+    }
+  },
+  {
+    "x": 40,
+    "y": 120,
+    "landType": 1,
+    "card": {
+      "name": "Mendit",
+      "type": 0,
+      "price": 200,
+      "complex": "D",
+      "cost": 16,
+      "house": {
+        "housePrice": 100,
+        "hotelPrice": 100,
+        "house1": 80,
+        "house2": 220,
+        "house3": 600,
+        "house4": 800,
+        "hotel": 1000
+      }
+    }
+  },
+  {
+    "x": 48,
+    "y": 50,
+    "landType": 9
+  },
+  {
+    "x": 119,
+    "y": 40,
+    "landType": 1,
+    "card": {
+      "name": "Soekarno Hatta",
+      "type": 0,
+      "price": 220,
+      "complex": "E",
+      "cost": 18,
+      "house": {
+        "housePrice": 150,
+        "hotelPrice": 150,
+        "house1": 90,
+        "house2": 250,
+        "house3": 700,
+        "house4": 875,
+        "hotel": 1050
+      }
+    }
+  },
+  {
+    "x": 173,
+    "y": 40,
+    "landType": 5
+  },
+  {
+    "x": 225,
+    "y": 40,
+    "landType": 1,
+    "card": {
+      "name": "Oro Oro Dowo",
+      "type": 0,
+      "price": 220,
+      "complex": "E",
+      "cost": 18,
+      "house": {
+        "housePrice": 150,
+        "hotelPrice": 150,
+        "house1": 90,
+        "house2": 250,
+        "house3": 700,
+        "house4": 875,
+        "hotel": 1050
+      }
+    }
+  },
+  {
+    "x": 277,
+    "y": 40,
+    "landType": 1,
+    "card": {
+      "name": "Tunggul Wulung",
+      "type": 0,
+      "price": 240,
+      "complex": "E",
+      "cost": 20,
+      "house": {
+        "housePrice": 150,
+        "hotelPrice": 150,
+        "house1": 100,
+        "house2": 300,
+        "house3": 750,
+        "house4": 925,
+        "hotel": 1100
+      }
+    }
+  },
+  {
+    "x": 330,
+    "y": 40,
+    "landType": 7,
+    "card": {
+      "name": "Terminal Landungsari",
+      "type": 1,
+      "price": 200,
+      "complex": "",
+      "cost": 0,
+      "house": {
+        "housePrice": 0,
+        "hotelPrice": 0,
+        "house1": 0,
+        "house2": 0,
+        "house3": 0,
+        "house4": 0,
+        "hotel": 0
+      }
+    }
+  },
+  {
+    "x": 382,
+    "y": 40,
+    "landType": 1,
+    "card": {
+      "name": "Batu",
+      "type": 0,
+      "price": 260,
+      "complex": "F",
+      "cost": 22,
+      "house": {
+        "housePrice": 150,
+        "hotelPrice": 150,
+        "house1": 110,
+        "house2": 330,
+        "house3": 800,
+        "house4": 975,
+        "hotel": 1150
+      }
+    }
+  },
+  {
+    "x": 437,
+    "y": 40,
+    "landType": 1,
+    "card": {
+      "name": "Blimbing",
+      "type": 0,
+      "price": 260,
+      "complex": "F",
+      "cost": 22,
+      "house": {
+        "housePrice": 150,
+        "hotelPrice": 150,
+        "house1": 110,
+        "house2": 330,
+        "house3": 800,
+        "house4": 975,
+        "hotel": 1150
+      }
+    }
+  },
+  {
+    "x": 488,
+    "y": 40,
+    "landType": 8,
+    "card": {
+      "name": "PDAM",
+      "type": 2,
+      "price": 150,
+      "complex": "",
+      "cost": 0,
+      "house": {
+        "housePrice": 0,
+        "hotelPrice": 0,
+        "house1": 0,
+        "house2": 0,
+        "house3": 0,
+        "house4": 0,
+        "hotel": 0
+      }
+    }
+  },
+  {
+    "x": 540,
+    "y": 40,
+    "landType": 1,
+    "card": {
+      "name": "Kepanjen",
+      "type": 0,
+      "price": 280,
+      "complex": "F",
+      "cost": 24,
+      "house": {
+        "housePrice": 150,
+        "hotelPrice": 150,
+        "house1": 120,
+        "house2": 360,
+        "house3": 850,
+        "house4": 1025,
+        "hotel": 1200
+      }
+    }
+  },
+  {
+    "x": 615,
+    "y": 50,
+    "landType": 3
+  },
+  {
+    "x": 625,
+    "y": 120,
+    "landType": 1,
+    "card": {
+      "name": "Lowokwaru",
+      "type": 0,
+      "price": 300,
+      "complex": "G",
+      "cost": 26,
+      "house": {
+        "housePrice": 200,
+        "hotelPrice": 200,
+        "house1": 130,
+        "house2": 390,
+        "house3": 900,
+        "house4": 1100,
+        "hotel": 1275
+      }
+    }
+  },
+  {
+    "x": 625,
+    "y": 175,
+    "landType": 1,
+    "card": {
+      "name": "Sukun",
+      "type": 0,
+      "price": 300,
+      "complex": "G",
+      "cost": 26,
+      "house": {
+        "housePrice": 200,
+        "hotelPrice": 200,
+        "house1": 130,
+        "house2": 390,
+        "house3": 900,
+        "house4": 1100,
+        "hotel": 1275
+      }
+    }
+  },
+  {
+    "x": 625,
+    "y": 225,
+    "landType": 4
+  },
+  {
+    "x": 625,
+    "y": 280,
+    "landType": 1,
+    "card": {
+      "name": "Madyopuro",
+      "type": 0,
+      "price": 320,
+      "complex": "G",
+      "cost": 28,
+      "house": {
+        "housePrice": 200,
+        "hotelPrice": 200,
+        "house1": 150,
+        "house2": 450,
+        "house3": 1000,
+        "house4": 1200,
+        "hotel": 1400
+      }
+    }
+  },
+  {
+    "x": 625,
+    "y": 330,
+    "landType": 7,
+    "card": {
+      "name": "Terminal Gadang",
+      "type": 1,
+      "price": 200,
+      "complex": "",
+      "cost": 0,
+      "house": {
+        "housePrice": 0,
+        "hotelPrice": 0,
+        "house1": 0,
+        "house2": 0,
+        "house3": 0,
+        "house4": 0,
+        "hotel": 0
+      }
+    }
+  },
+  {
+    "x": 625,
+    "y": 385,
+    "landType": 5
+  },
+  {
+    "x": 625,
+    "y": 440,
+    "landType": 1,
+    "card": {
+      "name": "Gadang",
+      "type": 0,
+      "price": 350,
+      "complex": "H",
+      "cost": 35,
+      "house": {
+        "housePrice": 200,
+        "hotelPrice": 200,
+        "house1": 175,
+        "house2": 500,
+        "house3": 1100,
+        "house4": 1300,
+        "hotel": 1500
+      }
+    }
+  },
+  {
+    "x": 625,
+    "y": 490,
+    "landType": 6,
+    "tax": 100
+  },
+  {
+    "x": 625,
+    "y": 545,
+    "landType": 1,
+    "card": {
+      "name": "Singosari",
+      "type": 0,
+      "price": 400,
+      "complex": "H",
+      "cost": 50,
+      "house": {
+        "housePrice": 200,
+        "hotelPrice": 200,
+        "house1": 200,
+        "house2": 600,
+        "house3": 1400,
+        "house4": 1700,
+        "hotel": 2000
+      }
+    }
+  }
+]
